@@ -16,8 +16,13 @@
         }
     ],
     "require": {
-        "php": "^7.1",
-        "illuminate/support": "^7.0"
+        "php": "^7.4",
+        "illuminate/support": "^7.0",
+        "ui-builder/navigation": "dev-master",
+        "ui-builder/card": "dev-master",
+        "ui-builder/datatable": "dev-master",
+        "ui-builder/form": "dev-master",
+        "get-things-done/attributes": "dev-master"
     },
     "require-dev": {
         "orchestra/testbench": "^5.0",
